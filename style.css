@@ -64,7 +64,7 @@ body {
 
     width:1000px;
 
-    padding:20px;
+   
 
     font-family: initial;
 
@@ -72,7 +72,7 @@ body {
 
     color:white;
 
-   
+
 
 }
 
@@ -99,6 +99,10 @@ body {
     gap: 20px;
 }
 
+.left-main {
+    display: block;
+    margin-left: -41.2%;
+}
 
 
 
@@ -125,11 +129,7 @@ body {
 
     width: 650px;
 
-    margin-bottom:40px;
-
-    margin-left: -41.2%;
-
-    margin-top: -20px;
+   
 
     gap: 20px;
 
@@ -142,7 +142,27 @@ body {
 
 
 
+.main{
+    background:rgb(123, 183, 201);
 
+    display:flex;
+
+    padding:20px;
+
+    font-size:30px;
+
+    font-style:italic;
+
+    width: 500px;
+    height: 517px;
+
+    margin-bottom:40px;
+
+    margin-left: -41.2%;
+   
+
+   
+}
 
 
 
