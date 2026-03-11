@@ -11,6 +11,12 @@ function mainGO() {
 }
 
 
+function rulesGO() {
+    location.href='index.html'
+}
+
+
+
 function LogIn() {
   let username = document.getElementById("us").value;
   let password = document.getElementById("pass").value;
